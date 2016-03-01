@@ -1,1 +1,4 @@
 edu/byui/firstproject/helloworld/HelloServlet.class
+sum/SumIt.class
+auth/SignOut.class
+auth/Authenticate.class
